@@ -1,17 +1,13 @@
 ## Hello World👋 I'm Sanaz
-class WebDeveloper:
-    def __init__(self):
-        self.name = "Sanaz Shahraeini"
-        self.roles = ["FrontEnd Developer", "BackEnd Developer", "Python Developer"]
-        self.education = "Master at Artificial Intelligence"
-        self.code_languages = ["Python", "JavaScript", "C++"]
-        self.Frameworks = ["Next.js", "Django", "Tailwind"]
+    class WebDeveloper:
+         def __init__(self):
+            self.name = "Sanaz Shahraeini"
+            self.roles = ["FrontEnd Developer", "BackEnd Developer", "Python Developer"]
+            self.education = "Master at Artificial Intelligence"
+            self.code_languages = ["Python", "JavaScript", "C++"]
+            self.Frameworks = ["Next.js", "Django", "Tailwind"]
 
-    def say_hi(self):
-        print("Thanks for dropping by!")
-
-me = WebDeveloper()
-me.say_hi()
+       me = WebDeveloper()
 
 <!--
 **sanaz-shahraeini/sanaz-shahraeini** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
