@@ -1,5 +1,5 @@
 ## Hello World👋 I'm Sanaz
-<center> <img src="./readme.png" width="250" height="200"/> </center>
+<center> <img src="./readme.png" width="250" height="250" align="center"/> </center>
 
     class WebDeveloper:
          def __init__(self):
