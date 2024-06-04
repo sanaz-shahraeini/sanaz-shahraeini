@@ -1,7 +1,8 @@
-## Hello World👋 I'm Sanaz
+## Hello World👋 I'm Sanaz 
 🚀 Check out my New Portfolio: https://sanaz-shahraeini.vercel.app/
 
 <center> <img src="./readme.png" width="250" height="220" align="right"/> </center>
+👩‍💻 Let me introduce myself with the below code :
 
     class WebDeveloper:
          def __init__(self):
