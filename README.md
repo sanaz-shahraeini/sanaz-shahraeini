@@ -1,5 +1,7 @@
 ### Hello World👋 I'm Sanaz 
-# 💻 My life as a web developer :
+Let me first introduce myself from two perspectives:👀
+
+## 💻 My life as a web developer :
 
 🚀 Check out my New Portfolio: https://sanaz-shahraeini.vercel.app/
 
@@ -33,7 +35,7 @@ Here are some ideas to get you started:
 
 
 
-# 🎓 My life as a lecturer :
+## 🎓 My life as a lecturer :
 
 I'm passionate about technology and education. I split my time between leading the IT Department and teaching at the University of ACECR.
 
@@ -52,7 +54,7 @@ I'm passionate about technology and education. I split my time between leading t
 
 ## Philosophy 
 
-🧠 My approach to both IT leadership and teaching is driven by a strategic vision for technology, a passion for education, and a commitment to continuous improvement. I believe in preparing students not only for the current tech landscape but also to become future leaders and innovators.
+- 🧠 My approach to both IT leadership and teaching is driven by a strategic vision for technology, a passion for education, and a commitment to continuous improvement. I believe in preparing students not only for the current tech landscape but also to become future leaders and innovators.
 
 ## Connect with Me
 
