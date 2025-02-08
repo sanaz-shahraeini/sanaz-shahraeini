@@ -5,7 +5,6 @@ Let me first introduce myself from two perspectives:👀
 
 🚀 Check out my New Portfolio: https://sanaz-shahraeini.vercel.app/
 
-<center> <img src="./readme.png" width="250" height="220" align="right"/> </center>
 👩‍💻 Let me introduce myself with the below code :
 
     class WebDeveloper:
